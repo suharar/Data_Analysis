@@ -28,9 +28,9 @@ Finance Evaluation [TBUpdated]
 
 <img align="left" width="250" height="150" src="https://github.com/suharar/Data_Analysis/blob/master/__private/carMileageTest.jpg"> **[Project3: Statistical Analysis of Car Mileage Test](https://github.com/suharar/Data_Analysis/Project3_CarMileageTest_Python-Statistics)**
 
-![Python]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-![Pandas]https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-![Numpy]https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 <br>
 
 Statistical Analysis of Car Mileage Test [TBUpdated]
@@ -39,10 +39,10 @@ Statistical Analysis of Car Mileage Test [TBUpdated]
 
 <img align="left" width="250" height="150" src="https://github.com/suharar/Data_Analysis/blob/master/__private/traffic.jpg"> **[Project 4: Traffic Analysis through Linear Regression Model](https://github.com/suharar/Data_Analysis/Project4_Traffic_Python-LinearRegression)**
 
-![Python]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-![Pandas]https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-![Numpy]https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-![Plotly]https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
 Traffic Analysis through Linear Regression Model [TBUpdated]
@@ -51,10 +51,10 @@ Traffic Analysis through Linear Regression Model [TBUpdated]
 
 <img align="left" width="250" height="150" src="https://github.com/suharar/Data_Analysis/blob/master/__private/vacation.jpg"> **[Project 5: Vacation Analysis PCA and Clustering](https://github.com/suharar/Data_Analysis/Project5_Vacation_Python-PCA&Clustering)**
 
-![Python]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-![Pandas]https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-![Numpy]https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-![Plotly]https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
 Vacation Analysis PCA and Clustering [TBUpdated]
@@ -63,10 +63,10 @@ Vacation Analysis PCA and Clustering [TBUpdated]
 
 <img align="left" width="250" height="150" src="https://github.com/suharar/Data_Analysis/blob/master/__private/bike.jpg"> **[Project 6: Rental Bike Usage Prediction](https://github.com/suharar/Data_Analysis/Project6_Bike_Python-ML(XGB&NN))**
 
-![Python]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-![Pandas]https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-![Numpy]https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-![Plotly]https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
 Rental Bike Usage Prediction [TBUpdated]
