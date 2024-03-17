@@ -4,6 +4,8 @@ This Portfolio is a compilation of some the Data or Financial Analysis projects 
 - **Email**: [ryo.suhara@tum.de](ryo.suhara@tum.de)
 - **LinkedIn**: [linkedin.com/ryo-suhara](https://www.linkedin.com/in/ryo-suhara-03a945161/)
 
+<br />
+
 ## SQL and BI Projects
 
 <img align="left" width="300" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/covid19_2.png"> **[Project 1: COVID 19 Analysis](https://github.com/suharar/Data_Analysis/tree/master/Project1_COVID19Analysis_SQL%26Tableau)**
@@ -35,7 +37,7 @@ This SQL and Tableau project provides a detailed analysis of the COVID-19 pandem
 
 ## Python Projects
 
-<img align="left" width="300" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/carMileageTest.jpg"> **[Project3: Car Mileage Test Data Linear Regression - Stastical Analysis](https://github.com/suharar/Data_Analysis/tree/master/Project3_CarMileageTest_Python-Statistics)**
+<img align="left" width="300" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/carMileageTest.jpg"> **[Project3: Car Mileage Test Data Linear Regression - Stastics](https://github.com/suharar/Data_Analysis/tree/master/Project3_CarMileageTest_Python-Statistics)**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
