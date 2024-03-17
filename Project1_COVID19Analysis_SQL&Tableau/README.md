@@ -18,6 +18,7 @@
 | CTEs and Subqueries         | Demonstrated expertise in organizing complex queries, using Common Table Expressions (CTEs) and subqueries for efficient data analysis. |
 | Advanced Filtering          | Applied in having clauses and conditional filtering to refine the data selection, especially in aggregations.         |
 
+<br>
 <details>
 ## 1. Quickly check the tables to be used
 
@@ -246,12 +247,26 @@ limit 10;
 <br>
 </details>
 
-## 1. Tableau
-<details>
+## 2. Tableau
+
+<br>
 
 ![image](https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png)
+- **Description**: This dashboard provides a comprehensive overview of the global impact of COVID-19. It displays key metrics such as the total population, total infections, deaths, and vaccination shots administered. By dialing select measures, users can view different measures Infection / Population %, Death / Populatuon %, Death / Infection %, Vaccination / Population ratio on a world map. 
+- **Features**: 
+  - Interactive world map looking at different meaningful measures.
+  - Summary statistics for infection/population, death/population, and death/infection percentages.
+  - Top 10 lists for countries with the highest infection/population, death/population, and death/infection percentages.
+  - Clickable link to view a detailed time series analysis.
+
+<br>
+
 ![image](https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/TimeSeries.png)
+- **Description**: This time series dashboard tracks the progression of COVID-19 in the world, highlighting the counts of infections, deaths, and vaccinations over time. The bar chart allows for an easy understanding of trends and developments throughout the pandemic, with selectable measures and locations for customized viewing.
+- **Features**: 
+  - Time series bar chart showing the trend of COVID-19 death counts over time which can change its view to various ratio (eg. Infection / Population %)
+  - Summary counts for total infections, deaths, and vaccinations.  Again a view can be changed to show various ratio in the same panel.
+  - Interactive selectors for different views, measures of interest, and locations, enabling a focused analysis on user-defined parameters.
 
-![View in Tableau Public](https://public.tableau.com/app/profile/ryo.suhara6840/viz/COVID19_17102587200050/COVID19LatestOverview?publish=yes)
+[View in Tableau Public](https://public.tableau.com/app/profile/ryo.suhara6840/viz/COVID19_17102587200050/COVID19LatestOverview?publish=yes)
 
-</details>
