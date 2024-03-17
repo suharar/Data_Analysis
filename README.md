@@ -6,7 +6,7 @@ This Portfolio is a compilation of some the Data or Financial Analysis projects 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/suharar/Data_Analysis/blob/master/__private/covid19.jpg"> **[Project 1: COVID 19 Analysis](https://github.com/suharar/Data_Analysis/tree/master/Project1_COVID19Analysis_SQL%26Tableau)**
+<img align="left" width="250" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/covid19_2.png"> **[Project 1: COVID 19 Analysis](https://github.com/suharar/Data_Analysis/tree/master/Project1_COVID19Analysis_SQL%26Tableau)**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
