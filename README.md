@@ -13,7 +13,7 @@ This Portfolio is a compilation of some the Data or Financial Analysis projects 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br>
 
-In this project I create the tables within PostgreSQL server via SQL and visualize parts of the results using Tableau. [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time.
 
 #
 
