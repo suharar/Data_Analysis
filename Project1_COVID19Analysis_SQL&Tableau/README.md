@@ -9,8 +9,17 @@
 
 
 ## 1. SQL
+| Skill/Technique             | Description                                                                                                          |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Basic SQL Queries           | Demonstrated by using simple `SELECT` statements to quickly retrieve data from `covid_deaths` and `covid_vaccinations`. |
+| Data Aggregation            | Showcased through the use of `MAX()` function and `GROUP BY` to summarize COVID-19 case data.                         |
+| Date Manipulation           | Utilized `EXTRACT(YEAR FROM date)` and `EXTRACT(MONTH FROM date)` to analyze data by specific time frames.            |
+| Calculation and Ratios      | Employed arithmetic operations and `ROUND()` function to calculate death percentages and infection rates.            |
+| CTEs and Subqueries         | Demonstrated expertise in organizing complex queries, using Common Table Expressions (CTEs) and subqueries for efficient data analysis. |
+| Advanced Filtering          | Applied in having clauses and conditional filtering to refine the data selection, especially in aggregations.         |
+
 <details>
-<summary>## 1. Quickly check the tables to be used</summary>
+## 1. Quickly check the tables to be used
 
 ````sql
 select *
@@ -235,4 +244,14 @@ limit 10;
 ![image](https://github.com/suharar/SQL-Portfolio/assets/74327995/2a848fde-0c34-44b9-9e07-36b318851bee)
 
 <br>
+</details>
+
+## 1. Tableau
+<details>
+
+![image](https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png)
+![image](https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/TimeSeries.png)
+
+![View in Tableau Public](https://public.tableau.com/app/profile/ryo.suhara6840/viz/COVID19_17102587200050/COVID19LatestOverview?publish=yes)
+
 </details>
