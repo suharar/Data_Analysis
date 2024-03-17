@@ -20,6 +20,7 @@
 
 <br>
 <details>
+
 ## 1. Quickly check the tables to be used
 
 ````sql
