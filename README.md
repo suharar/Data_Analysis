@@ -19,6 +19,7 @@ This SQL and Tableau project provides a detailed analysis of the COVID-19 pandem
 
 <br />
 
+
 ## Finance Analysis Projects
 
 <img align="left" width="300" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/FinanceValuation.jpg"> **[Project2: Company Valuation through DCF model](https://github.com/suharar/Data_Analysis/tree/master/Project2_FinanceValuation_Excel-Modeling)**
@@ -26,8 +27,7 @@ This SQL and Tableau project provides a detailed analysis of the COVID-19 pandem
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br>
 
-
-Finance Evaluation [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time.[TBUpdated]
 
 #
 
@@ -43,7 +43,7 @@ Finance Evaluation [TBUpdated]
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-Car Mileage Test Data Linear Regression [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time.[TBUpdated]
 
 #
 
@@ -55,7 +55,7 @@ Car Mileage Test Data Linear Regression [TBUpdated]
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-Traffic Data Linear Regression - Deeper Analysis [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time. [TBUpdated]
 
 #
 
@@ -67,7 +67,7 @@ Traffic Data Linear Regression - Deeper Analysis [TBUpdated]
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-Vacation Analysis PCA and Clustering [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time. [TBUpdated]
 
 #
 
@@ -79,7 +79,7 @@ Vacation Analysis PCA and Clustering [TBUpdated]
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-Rental Bike Usage Prediction [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time. [TBUpdated]
 
 #
 
@@ -91,7 +91,7 @@ Rental Bike Usage Prediction [TBUpdated]
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-Rental Bike Usage Prediction [TBUpdated]
+This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time. [TBUpdated]
 
 #
 
