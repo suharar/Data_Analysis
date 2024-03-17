@@ -252,13 +252,25 @@ limit 10;
 
 <br>
 
-<img align="left" width="400" height="300" src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png"> **Description**: This dashboard provides a comprehensive overview of the global impact of COVID-19. It displays key metrics such as the total population, total infections, deaths, and vaccination shots administered. By dialing select measures, users can view different measures Infection / Population %, Death / Populatuon %, Death / Infection %, Vaccination / Population ratio on a world map. 
 
-**Features**: 
-  - Interactive world map looking at different meaningful measures.
-  - Summary statistics for infection/population, death/population, and death/infection percentages.
-  - Top 10 lists for countries with the highest infection/population, death/population, and death/infection percentages.
-  - Clickable link to view a detailed time series analysis.
+<table>
+<tr>
+<td>
+<img src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png" alt="Dashboard Screenshot" style="max-width: 100%;">
+</td>
+<td style="text-align: left; vertical-align: top;">
+<h2>Tableau</h2>
+<p><strong>Description:</strong> This dashboard provides a comprehensive overview of the global impact of COVID-19. It displays key metrics such as the total population, total infections, deaths, and vaccination shots administered. By dialing select measures, users can view different measures Infection / Population %, Death / Population %, Death / Infection %, Vaccination / Population ratio on a world map.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Interactive world map looking at different meaningful measures.</li>
+<li>Summary statistics for infection/population, death/population, and death/infection percentages.</li>
+<li>Top 10 lists for countries with the highest infection/population, death/population, and death/infection percentages.</li>
+<li>Clickable link to view a detailed time series analysis.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 <br>
 
