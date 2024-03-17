@@ -252,14 +252,13 @@ limit 10;
 
 <br>
 
-
 <table>
 <tr>
-<td>
-<img src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png" alt="Dashboard Screenshot" style="max-width: 100%;">
+<td width="50%">
+<img src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png"  alt="Dashboard Screenshot" width="100%">
 </td>
-<td style="text-align: left; vertical-align: top;">
-<h2>Tableau</h2>
+<td width="50%" style="text-align: left; vertical-align: top; padding-left: 20px;">
+
 <p><strong>Description:</strong> This dashboard provides a comprehensive overview of the global impact of COVID-19. It displays key metrics such as the total population, total infections, deaths, and vaccination shots administered. By dialing select measures, users can view different measures Infection / Population %, Death / Population %, Death / Infection %, Vaccination / Population ratio on a world map.</p>
 <p><strong>Features:</strong></p>
 <ul>
