@@ -254,10 +254,10 @@ limit 10;
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 <img src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png"  alt="Dashboard Screenshot" width="100%">
 </td>
-<td width="40%" style="text-align: left; vertical-align: top; padding-left: 20px;">
+<td width="45%" style="text-align: left; vertical-align: top; padding-left: 20px;">
 <p><strong>Description:</strong> This dashboard provides a comprehensive overview of the global impact of COVID-19. It displays key metrics such as the total population, total infections, deaths, and vaccination shots administered. By dialing select measures, users can view different measures Infection / Population %, Death / Population %, Death / Infection %, Vaccination / Population ratio on a world map.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -274,10 +274,10 @@ limit 10;
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 <img src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/TimeSeries.png"  alt="Dashboard Screenshot" width="100%">
 </td>
-<td width="40%" style="text-align: left; vertical-align: top; padding-left: 20px;">
+<td width="45%" style="text-align: left; vertical-align: top; padding-left: 20px;">
 <p><strong>Description:</strong>  This time series dashboard tracks the progression of COVID-19 in the world, highlighting the counts of infections, deaths, and vaccinations over time. The bar chart allows for an easy understanding of trends and developments throughout the pandemic, with selectable measures and locations for customized viewing.</p>
 <p><strong>Features:</strong></p>
 <ul>
