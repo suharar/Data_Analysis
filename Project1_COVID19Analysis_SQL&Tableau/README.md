@@ -252,7 +252,7 @@ limit 10;
 
 <br>
 
-![image](https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png)
+<img align="left" width="500" height="380" src="https://github.com/suharar/Data_Analysis/blob/master/Project1_COVID19Analysis_SQL%26Tableau/Tableau/raw/LatestOverview.png">
 - **Description**: This dashboard provides a comprehensive overview of the global impact of COVID-19. It displays key metrics such as the total population, total infections, deaths, and vaccination shots administered. By dialing select measures, users can view different measures Infection / Population %, Death / Populatuon %, Death / Infection %, Vaccination / Population ratio on a world map. 
 - **Features**: 
   - Interactive world map looking at different meaningful measures.
