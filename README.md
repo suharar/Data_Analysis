@@ -57,7 +57,7 @@ This project applies multiple linear regression to predict car mileage, highligh
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time. [TBUpdated]
+"In this project, advanced statistical techniques and machine learning models, including multiple linear regression, ridge, and lasso regression, are utilized to analyze traffic flow data. By creatively transforming variables to address multicollinearity and applying cross-validation, the study emphasizes statistical insights and model evaluation.
 
 #
 
