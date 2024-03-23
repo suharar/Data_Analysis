@@ -45,7 +45,7 @@ This SQL and Tableau project provides a detailed analysis of the COVID-19 pandem
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time.[TBUpdated]
+This project applies multiple linear regression to predict car mileage, highlighting my statistical understanding through model fitting, significance testing, and variance estimation, using Python libraries like pandas, matplotlib, and statsmodels.
 
 #
 
