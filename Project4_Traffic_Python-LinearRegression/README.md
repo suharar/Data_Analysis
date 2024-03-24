@@ -6,7 +6,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-## 1. List of Skills/Techniques through the project
+## 1. Skills and Techniques Demonstrated in the Project
 | Skill/Technique                     | Description |
 |-------------------------------------|-------------|
 | Data Visualization                  | Leveraged seaborn and matplotlib to explore relationships between variables, providing insights into data distribution and potential multicollinearity. |

@@ -5,7 +5,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 <br>
 
-## 1. List of Skills/Techniques through the project
+## 1. Skills and Techniques Demonstrated in the Project
 | Skill/Technique                     | Description |
 |-------------------------------------|-------------|
 | Data Manipulation and Cleaning      | Utilized pandas for data cleaning, preparation, and manipulation, ensuring high-quality inputs for analysis. |

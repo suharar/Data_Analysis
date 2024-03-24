@@ -29,7 +29,7 @@ This SQL and Tableau project provides a detailed analysis of the COVID-19 pandem
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br>
 
-This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time.[TBUpdated]
+This project showcases a detailed financial analysis of Tokyo Gas, Amazon, and MTU using the Discounted Cash Flow (DCF) model to assess their stock prices. It demonstrates advanced financial modeling techniques and valuation skills using MS Excel.
 
 #
 
@@ -57,7 +57,7 @@ This project applies multiple linear regression to predict car mileage, highligh
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-"In this project, advanced statistical techniques and machine learning models, including multiple linear regression, ridge, and lasso regression, are utilized to analyze traffic flow data. By creatively transforming variables to address multicollinearity and applying cross-validation, the study emphasizes statistical insights and model evaluation.
+In this project, multiple linear regression, ridge, and lasso regression, are utilized to analyze traffic flow data. By creatively transforming variables to address multicollinearity and applying cross-validation, the study emphasizes statistical insights and model evaluation.
 
 #
 
