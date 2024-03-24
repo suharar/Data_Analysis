@@ -93,7 +93,7 @@ This project performs EDA and preprocessing on a bike-sharing dataset using Pyth
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-This project employs Neural Networks and XGBoost to predict bike sharing demand, exploring preprocessing, data analysis, and advanced regression methods. XGBoost predicts user counts separately and directly, while LSTM processes sequential data. Optuna optimizes model performance, evaluated by MAPE, and ensemble strategies enhance accuracy.
+This project applies Neural Networks and XGBoost in Python for bike sharing demand prediction, combining preprocessing and regression techniques. It optimizes XGBoost and LSTM models using Optuna, evaluates them with MAPE, and explores ensemble methods for improved prediction accuracy.
 
 #
 
