@@ -93,7 +93,7 @@ This project performs EDA and preprocessing on a bike-sharing dataset using Pyth
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
 
-This SQL and Tableau project provides a detailed analysis of the COVID-19 pandemic's impact globally. Through SQL queries, it examines trends in cases, deaths, and vaccinations, which are visualized in Tableau dashboards to offer an interactive and comprehensive overview of the data over time. [TBUpdated]
+This project employs Neural Networks and XGBoost to predict bike sharing demand, exploring preprocessing, data analysis, and advanced regression methods. XGBoost predicts user counts separately and directly, while LSTM processes sequential data. Optuna optimizes model performance, evaluated by MAPE, and ensemble strategies enhance accuracy.
 
 #
 
