@@ -8,7 +8,12 @@
 <br>
 
 
-## 1. SQL
+
+## 1. Overview
+This project harnesses SQL and Tableau to dissect COVID-19 data, revealing global infection, death rates, and vaccination progress with a spotlight on Japan. Through SQL, it starts with basic data retrieval, advancing to complex aggregations and analyses such as death percentages and infection rates over time. Techniques like date manipulation, CTEs, and subqueries facilitate nuanced data examination, leading to insights like Japan's peak death rates and global infection trends. The analysis extends to identifying countries with the highest infection and death rates, using SQL for detailed data exploration. Tableau visualizations complement this analysis, offering interactive dashboards for a dynamic exploration of the pandemic's impact, showcasing the blend of SQL's analytical power with Tableau's visual storytelling capabilities.
+
+
+## 2. SQL
 | Skill/Technique             | Description                                                                                                          |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Basic SQL Queries           | Demonstrated by using simple `SELECT` statements to quickly retrieve data from `covid_deaths` and `covid_vaccinations`. |
@@ -248,7 +253,7 @@ limit 10;
 <br>
 </details>
 
-## 2. Tableau
+## 3. Tableau
 
 <br>
 
