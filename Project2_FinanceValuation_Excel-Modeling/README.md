@@ -7,8 +7,6 @@
 ## 1. Project Overview
 ![demonstration](https://github.com/suharar/Data_Analysis/blob/master/Project2_FinanceValuation_Excel-Modeling/__private/valuationAnime.gif)
 
-<br>
-
 This financial analysis project, executed within Excel, focuses on evaluating the stock prices of Tokyo Gas, Amazon, and MTU through the Discounted Cash Flow (DCF) model. The approach involves meticulously gathering, cleaning, and analyzing historical financial data—spanning profit and loss statements, balance sheets, and cash flows—across several years for each company. It emphasizes not only the practical application of financial theories but also the utilization of Excel for complex financial analyses. This portfolio showcases the depth of financial analysis conducted to predict future cash flows, discount them to their present value, and determine the intrinsic stock values, thereby assisting in investment decision-making processes.
 
 
