@@ -1,5 +1,5 @@
 # Data/Finance Analyst Portfolio - Ryo Suhara
-This Portfolio is a compilation of some the Data or Financial Analysis projects I have done for academic and self-learning purposes. [TBUpdated]
+Welcome to a simple look into my journey as a Data/Finance Analyst. This portfolio shows a bit of what I've done, highlighting how I use different tech tools and financial modeling skills. A lot of these skills come from my studies and learning on my own. While my resume shares my work and education history, this space focuses on how I use data analytics, SQL, Python, and financial models. 
 
 - **Email**: [ryo.suhara@tum.de](ryo.suhara@tum.de)
 - **LinkedIn**: [linkedin.com/ryo-suhara](https://www.linkedin.com/in/ryo-suhara-03a945161/)
@@ -73,7 +73,7 @@ This project demonstrates dimensionality reduction and clustering on a transport
 
 #
 
-<img align="left" width="300" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/bicycle.jpg"> **[Project 6: Rental Bike Usage EDA](https://github.com/suharar/Data_Analysis/tree/master/Project6_Bike_Python-EDA)**
+<img align="left" width="300" height="200" src="https://github.com/suharar/Data_Analysis/blob/master/__private/bicycle.jpg"> **[Project 6: Rental Bike Usage EDA](https://github.com/suharar/Data_Analysis/tree/master/Project6_Bike_Python-EDA%26PreProcessing)**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -102,6 +102,6 @@ This SQL and Tableau project provides a detailed analysis of the COVID-19 pandem
 
 ## Core Competencies
 
-- **Methodologies**: Financial Forecasting/Budgeting/Reporting, Project Management, Cost Optimazation, Process Automation, Big Data Analytics, Machine Learning,  Statistics 
+- **Methodologies**: Financial Forecasting/Budgeting/Reporting/Valuation, Project Management, Cost Optimazation, Process Automation, KPI Tracking, Big Data Analytics, Machine Learning,  Statistics 
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL
 - **Tools**: Amazon Redshift, PostgreSQL, Tableau, Git, MS Excel
